@@ -1,5 +1,5 @@
 # Java Math
-This is my first java code. It will do <i>math</i> operation, such as:
+This is my first java code. It will do some <i>math</i> operation, such as:
 * Power
 * Absolute Value
 * Floor
