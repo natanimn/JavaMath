@@ -1,6 +1,6 @@
 # Java Math
 This is my first java code. It will do <i>math</i> operation, such as:
-*Power
+* Power
 * Absolute Value
 * Floor
 * The constant number PI
